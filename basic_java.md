@@ -7,7 +7,7 @@ layout: default
 ### Purpose: The Fundamentals of Programming in Java
 
 You have two days to get through the following material and solve
-Exercise 1 below.
+[Exercise 1](#exercise-1) below.
 
 * As we will be using git extensively, go read the
   [git documentation](https://git-scm.com/documentation) (not
@@ -42,7 +42,7 @@ If you prefer IDEs:
 * [Eclipse](https://eclipse.org/)
 * [NetBeans](https://netbeans.org/)
 
-### Exercise 1
+### Exercise 1<a id="exercise-1"></a>
 
 You will write a Java program that handles numbers in three different
 numbering systems:
@@ -59,11 +59,11 @@ one of the basic arithmetic operators (+, -, *, /). It will calculate
 and output the result in all three different representations. Then the
 program will ask for a new expression, and so on. It will terminate
 when the user just presses enter, without giving a numerical
-expression.
+expression. Use only internet arithmetic.
 
 To solve the exercise use the material in Chapters 1 &ndash; 10 of
 Think Java, that is, don't go into classes. Your program must be in a
 GitHub repository. For consistence, create a GitHub repository called
-dmst-coding-bootcamp where you will put all the code you will be
-writing in the bootcamp. You can put the code for this exercise in a
-directory `exercise-1`.
+called `dmst-coding-bootcamp` where you will put all the code you will
+be writing in the bootcamp. You can put the code for this exercise in
+a directory called `exercise-1`.
