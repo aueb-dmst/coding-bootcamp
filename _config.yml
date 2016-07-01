@@ -11,6 +11,6 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the site of the Coding Bootcamp organised by the Department
   of Management Science and Technology, Athens University of Economics 
   and Business, Athens, Greece.
-
+baseurl: /coding-bootcamp
 # Build settings
 markdown: kramdown

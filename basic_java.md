@@ -15,7 +15,7 @@ Exercise 1 below.
   git, and return to the documentation if needed), the
   [GitHub documentation](https://guides.github.com/activities/hello-world/)
   and if you want to use it, the
-  [GitHub Desktop documentation](https://desktop.github.com/)
+  [GitHub Desktop documentation](https://desktop.github.com/).x
 * [Think Java](http://greenteapress.com/wp/think-java/). That is a
   very good, free introductory book on Java. Read Chapters
   1 &ndash; 10. 
