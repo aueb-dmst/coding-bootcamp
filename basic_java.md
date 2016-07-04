@@ -61,6 +61,16 @@ program will ask for a new expression, and so on. It will terminate
 when the user just presses enter, without giving a numerical
 expression. Use only internet arithmetic.
 
+When you start working into the exercise you may wonder how to handle
+greek characters that are no longer in use. For digamma (number 6),
+use the modern sigma teliko; for koppa (number 90), use the modern
+latin Q (whose precursor it was, anyway); for sampi (number 900), use
+the modern latin W (no relation, but they kind of look alike).
+
+If you are using MS-Windows, you may want to use an alternative
+terminal than the default. You can check out
+[ConEmu](https://conemu.github.io/).
+
 To solve the exercise use the material in Chapters 1 &ndash; 10 of
 Think Java, that is, don't go into classes. Your program must be in a
 GitHub repository. For consistence, create a GitHub repository called
