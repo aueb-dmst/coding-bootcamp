@@ -18,7 +18,7 @@ You have two days to get through the following material and solve
   [GitHub Desktop documentation](https://desktop.github.com/).
 * [Think Java](http://greenteapress.com/wp/think-java/). That is a
   very good, free introductory book on Java. Read Chapters
-  1 &ndash; 10. 
+  1 &ndash; 9. 
 
 To solve the exercise you may use Google and StackOverflow at will
 when you are stuck; however if you do find large parts of the solution
