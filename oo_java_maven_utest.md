@@ -14,18 +14,17 @@ i.e., the basic unit of abstraction has been functions and procedures.
 Now you will make the transition to viewing Java as an Object-Oriented
 language.
 
-* Read Chapters [Think Java](http://greenteapress.com/wp/think-java/).
-  That is a very good, free introductory book on Java. Read Chapters
-  10 &ndash; 14.
+* Read 10 &ndash; 14 Chapters of
+  [Think Java](http://greenteapress.com/wp/think-java/). 
 
 ### Purpose: Maven
 
 You can compile and build your Java programs by invoking directly
-`javac` and other `jar`, but when your programs contain but a small
-number of files this can be very frustrating.
+`javac` and other utilities like `jar`, but when your programs contain
+but a small number of files this can be very frustrating.
 
 Most Java programs are built using special build tools. These tools
-take care of creating the proper directory structure for our program,
+take care of creating the proper directory structure for your program,
 downloading any third-party libraries we need, and packaging the final
 product in the appropriate way so that it can be deployed easily.
 
@@ -48,7 +47,9 @@ Professional, production-ready programs are accompanied by extensive
 test suites. Testing starts with writing *unit tests*. You need to
 understand what unit testing is and how it works in Java.
 
-* Unit tests are frequently written with [JUnit](http://junit.org/). 
+* Unit tests are frequently written with [JUnit](http://junit.org/).
+  Unit testing is very popular. Check also the [Wikipedia article on
+  unit testing](https://en.wikipedia.org/wiki/Unit_testing).
 
 * You can use JUnit by just downloading and putting in the class path.
   Go ahead,

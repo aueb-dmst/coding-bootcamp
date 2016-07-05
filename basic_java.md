@@ -16,7 +16,7 @@ You have two days to get through the following material and solve
   [GitHub documentation](https://guides.github.com/activities/hello-world/)
   and if you want to use it, the
   [GitHub Desktop documentation](https://desktop.github.com/).
-* [Think Java](http://greenteapress.com/wp/think-java/). That is a
+* [Think Java](http://greenteapress.com/wp/think-java/). This is a
   very good, free introductory book on Java. Read Chapters
   1 &ndash; 9. 
 
