@@ -44,7 +44,7 @@ detail, and they have developed a very good set of tutorials and
 guides for that purpose.
 
 * Without further ado, start with [Serving Web Content with Spring
-  MVC](Serving Web Content with Spring MVC).
+  MVC](https://spring.io/guides/gs/serving-web-content/).
 
 ### Purpose: Dynamic HTML Forms
 
