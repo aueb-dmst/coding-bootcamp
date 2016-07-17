@@ -13,3 +13,5 @@ layout: default
 * Module 4: [HTML, CSS, and a Bit of SSH/SCP]({{ site.baseurl }}/html_css_ssh.html) 
 
 * Module 5: [First Steps in Dynamic Sites]({{ site.baseurl }}/first_steps_dynamic_sites.html) 
+
+* Module 6: [Introduction to Relational Database Management Systems (RDBMSs) with Java]({{ site.baseurl }}/intro_to_rdbms_java.html)
