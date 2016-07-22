@@ -64,8 +64,8 @@ expression. Use only internet arithmetic.
 When you start working into the exercise you may wonder how to handle
 greek characters that are no longer in use. For digamma (number 6),
 use the modern sigma teliko; for koppa (number 90), use the modern
-latin Q (whose precursor it was, anyway); for sampi (number 900), use
-the modern latin W (no relation, but they kind of look alike).
+latin q (whose precursor it was, anyway); for sampi (number 900), use
+the modern latin m (no relation, but they kind of look alike).
 
 If you are using MS-Windows, you may want to use an alternative
 terminal than the default. You can check out
