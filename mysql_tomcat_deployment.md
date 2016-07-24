@@ -93,6 +93,17 @@ CREATE TABLE my_table (
     ...
 {% endhighlight %}
 
+Finally, you must build your application using the MySQL Java
+connector libraries. That means that you have to add the appropriate
+dependency in your `pom.xml` file:
+{% highlight xml %}
+<dependency>
+  <groupId>mysql</groupId>
+  <artifactId>mysql-connector-java</artifactId>
+  <version>6.0.3</version>
+</dependency>
+{% endhighlight %}
+
 ### Purpose: Introducing Tomcat
 
 Your web applications are written in Java. However, the Apache web
