@@ -58,7 +58,6 @@ server. If you want to manipulate directly:
 You will need to be root to execute these commands. So you must 
 prepend them with `sudo` (e.g., `sudo service tomcat8 start`).
 
-
 ### Purpose: Configuring your Application for MySQL
 
 Your application must know which database it will use; it will also
@@ -75,6 +74,23 @@ spring.datasource.username=themysqldatabaseuser
 spring.datasource.password=thisisthepassword
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+{% endhighlight %}
+
+Another change you have to do concerns the `id` attribute of the
+entities you are going to save. They will need to be declared as
+follows, in their class file:
+{% highlight java %}
+@Id
+@GeneratedValue(strategy=GenerationType.IDENTITY)
+private long id;
+{% endhighlight %}
+
+This declaration must be consistent with the way the `id` attribute is
+declared in the SQL table:
+{% highlight sql %}
+CREATE TABLE my_table (
+	id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    ...
 {% endhighlight %}
 
 ### Purpose: Introducing Tomcat
