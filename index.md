@@ -17,3 +17,5 @@ layout: default
 * Module 6: [Introduction to Relational Database Management Systems (RDBMSs) with Java]({{ site.baseurl }}/intro_to_rdbms_java.html)
 
 * Module 7: [Deployment on MySQL and Tomcat]({{ site.baseurl }}/mysql_tomcat_deployment.html)
+
+* Module 8: [Security and Bringing it All Together]({{ site.baseurl }}/security_bringing_it_all_together.html)
